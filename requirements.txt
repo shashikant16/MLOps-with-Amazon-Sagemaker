@@ -1,0 +1,6 @@
+numpy==1.23.5
+pandas==1.5.3
+scikit-learn==1.2.1
+evidently==0.4.0
+streamlit==1.25.0
+## This library version works in python 3.10.9
